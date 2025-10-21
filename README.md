@@ -8,3 +8,5 @@ File "fig2.cpp" was used to generate the primary results, including Figures 2-6.
 Before using File "fig2.cpp", please first use File "DAER network2.cpp" to create the required network.
 
 The directive #include "big.c" incorporates a source file that implements random number generation functions. This file may be replaced by the user with an alternative implementation, assuming the necessary function signatures are preserved.
+
+File "DAER2_r_0.010_n_10.000.net" is cited in the paper and used as an illustrative example for statistical analysis.
