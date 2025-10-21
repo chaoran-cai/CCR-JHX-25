@@ -1,4 +1,4 @@
-# CCR-JHX-25-materials-for-paper
+# CCR-JHX-25
 The files are used for "arxiv links (to be added later)" and "article links (to be added later)".
 
 File "DAER network2.cpp" was used for generating the network.
